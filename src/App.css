@@ -1,0 +1,16 @@
+body { background-color:#222;}
+.speed_container{
+  margin:15% 0 0 25%;
+  padding: 10px;
+}
+
+.container{
+  background-color:#FFF;
+  margin:150px auto;
+  width:30% !important;
+  
+}
+
+#logdiv{
+  display:none;
+}
